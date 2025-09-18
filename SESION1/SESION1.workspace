@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SESION1" Database="" Version="10000">
+  <Project Name="SESION1_EJEMPLO1" Path="SESION1_EJEMPLO1/SESION1_EJEMPLO1.project" Active="Yes"/>
+  <Project Name="SESION1_EJEMPLO02" Path="SESION1_EJEMPLO02/SESION1_EJEMPLO02.project"/>
+  <Project Name="SESION1_EJEMPLO03" Path="SESION1_EJEMPLO03/SESION1_EJEMPLO03.project"/>
+  <Project Name="SESION1_EJEMPLO04" Path="SESION1_EJEMPLO04/SESION1_EJEMPLO04.project"/>
+  <Project Name="SESION1_EJEMPLO05" Path="SESION1_EJEMPLO05/SESION1_EJEMPLO05.project"/>
+  <Project Name="SESION1_EJEMPLO06" Path="SESION1_EJEMPLO06/SESION1_EJEMPLO06.project"/>
+  <Project Name="SESION1_EJEMPLO07" Path="SESION1_EJEMPLO07/SESION1_EJEMPLO07.project"/>
+  <Project Name="SESION1_EJEMPLO08" Path="SESION1_EJEMPLO08/SESION1_EJEMPLO08.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="SESION1_EJEMPLO1" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO02" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO03" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO04" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO05" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO06" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO07" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO08" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="SESION1_EJEMPLO1" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO02" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO03" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO04" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO05" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO06" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO07" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO08" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
