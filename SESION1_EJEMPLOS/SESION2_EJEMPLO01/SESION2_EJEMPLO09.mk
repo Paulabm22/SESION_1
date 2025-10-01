@@ -6,7 +6,7 @@
 ProjectName            :=SESION2_EJEMPLO09
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :="C:/Users/Paula/Desktop/INGENIERIA DE COMPUTADORES/2 AÑO/1 CUATRI/Estructuras de Datos/SESION1_EJEMPLOS"
+WorkspacePath          :="C:/Users/Paula/Desktop/INGENIERIA DE COMPUTADORES/2 AÑO/1 CUATRI/Estructuras de Datos/SESION2"
 ProjectPath            :="C:/Users/Paula/Desktop/INGENIERIA DE COMPUTADORES/2 AÑO/1 CUATRI/Estructuras de Datos/SESION1_EJEMPLOS/SESION2_EJEMPLO01"
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/SESION2_EJEMPLO01
 OutDir                 :=$(IntermediateDirectory)
@@ -105,5 +105,6 @@ $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 ##
 clean:
 	$(RM) -r $(IntermediateDirectory)
+
 
 
