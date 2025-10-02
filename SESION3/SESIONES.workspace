@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="SESION1" Database="" Version="10000">
+  <Project Name="SESION1_EJEMPLO02" Path="SESION1_EJEMPLO02/SESION1_EJEMPLO02.project" Active="No"/>
+  <Project Name="SESION1_EJEMPLO03" Path="SESION1_EJEMPLO03/SESION1_EJEMPLO03.project" Active="No"/>
+  <Project Name="SESION1_EJEMPLO04" Path="SESION1_EJEMPLO04/SESION1_EJEMPLO04.project" Active="No"/>
+  <Project Name="SESION1_EJEMPLO05" Path="SESION1_EJEMPLO05/SESION1_EJEMPLO05.project" Active="No"/>
+  <Project Name="SESION1_EJEMPLO06" Path="SESION1_EJEMPLO06/SESION1_EJEMPLO06.project" Active="No"/>
+  <Project Name="SESION1_EJEMPLO07" Path="SESION1_EJEMPLO07/SESION1_EJEMPLO07.project" Active="No"/>
+  <Project Name="SESION1_EJEMPLO08" Path="SESION1_EJEMPLO08/SESION1_EJEMPLO08.project" Active="No"/>
+  <Project Name="SESION2_EJEMPLO10" Path="SESION2_EJEMPLO10/SESION2_EJEMPLO10.project" Active="No"/>
+  <Project Name="SESION2_EJEMPLO11" Path="SESION2_EJEMPLO11/SESION2_EJEMPLO11.project" Active="No"/>
+  <Project Name="SESION2_EJEMPLO12" Path="SESION2_EJEMPLO12/SESION2_EJEMPLO12.project" Active="No"/>
+  <Project Name="SESION2_EJEMPLO09" Path="SESION2_EJEMPLO09/SESION2_EJEMPLO09.project" Active="No"/>
+  <Project Name="SESION3_EJEMPLO13" Path="SESION3_EJEMPLO13/SESION3_EJEMPLO13.project" Active="Yes"/>
+  <Project Name="Pilas" Path="Pilas/Pilas.project" Active="No"/>
+  <Project Name="Colas" Path="Colas/Colas.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="SESION1_EJEMPLO1" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO02" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO03" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO04" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO05" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO06" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO07" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO08" ConfigName="Debug"/>
+      <Project Name="SESION1_EJEMPLO01" ConfigName="Debug"/>
+      <Project Name="SESION2_EJEMPLO10" ConfigName="Debug"/>
+      <Project Name="SESION2_EJEMPLO11" ConfigName="Debug"/>
+      <Project Name="SESION2_EJEMPLO12" ConfigName="Debug"/>
+      <Project Name="SESION2_EJEMPLO09" ConfigName="Debug"/>
+      <Project Name="SESION3_EJEMPLO13" ConfigName="Debug"/>
+      <Project Name="Pilas" ConfigName="Debug"/>
+      <Project Name="Colas" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="SESION1_EJEMPLO1" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO02" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO03" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO04" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO05" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO06" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO07" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO08" ConfigName="Release"/>
+      <Project Name="SESION1_EJEMPLO01" ConfigName="Release"/>
+      <Project Name="SESION2_EJEMPLO10" ConfigName="Release"/>
+      <Project Name="SESION2_EJEMPLO11" ConfigName="Release"/>
+      <Project Name="SESION2_EJEMPLO12" ConfigName="Release"/>
+      <Project Name="SESION2_EJEMPLO09" ConfigName="Release"/>
+      <Project Name="SESION3_EJEMPLO13" ConfigName="Release"/>
+      <Project Name="Pilas" ConfigName="Release"/>
+      <Project Name="Colas" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
